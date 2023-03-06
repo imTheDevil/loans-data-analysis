@@ -5,4 +5,4 @@ GROUP BY c_loanid) as c
 ON p."Loan Number" = c.c_loanid
 WHERE p."Loan Number" IS NOT null
 GROUP BY p."State"
-ORDER BY no_of_calls DESC;
+ORDER BY p."State";
