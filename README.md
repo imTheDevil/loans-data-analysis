@@ -5,7 +5,7 @@ across different states, distribution of loans borrowed across different amounts
 along with a few visualizations.
 
 ## Data
-Analysis was done on two data sets, Portfolio Data and Communication Data.
+Analysis was done on two synthetic data sets, Portfolio Data and Communication Data.
 They contain information regarding the loans taken that are to be cleared 
 between 31-10-2022 to 29-11-2022.\
 \
